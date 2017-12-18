@@ -21,7 +21,12 @@
  
  */
 // Answer question 3 below
-
+let HairDonationAmount = 55.75
+let RunTariningDonatioanAmount = 15.35
+var headShavedCount = 12
+var RunTariningCount = 73
+var TotalDonationAmount = 55.75 * 12 + 15.35 * 73
+print("The number of the mouny is constant, the number of the people is variable, and the total donation amount is variable. Becuase the number of money for each person is constant, but the number of person could was changed")
 /*:
  ## Now share your understanding
  
