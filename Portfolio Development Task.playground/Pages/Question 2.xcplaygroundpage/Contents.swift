@@ -17,6 +17,9 @@
  
  */
 // Answer question 2 below
+let NameForTheTshirt = ir
+let NumberOfTshirtSold = 100
+
 
 /*:
  ## Now share your understanding
