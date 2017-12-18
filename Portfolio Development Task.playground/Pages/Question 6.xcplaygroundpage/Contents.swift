@@ -19,6 +19,15 @@
  
  */
 // Answer question 6 below
+let targetDistance = 100.0
+var currentDistanceRun = 50.0
+if currentDistanceRun < 15 {
+    print "Great trat, keep it up." )
+} else if currentDistanceRun || 45 or 50
+    print "You're almost at halfway!" )
+} else if currentDistanceRuntargetDistance
+    
+
 
 
 /*:
