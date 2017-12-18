@@ -17,8 +17,11 @@
  
  */
 // Answer question 2 below
-let NameForTheTshirt = ir
-let NumberOfTshirtSold = 100
+let NameForTheTshirt = "Jason"
+var NumberOfTshirtSold = 100
+var SuggestedSellingPricePerTshirt = 45
+
+
 
 
 /*:
