@@ -15,6 +15,11 @@ let hasBoysAndGirlsAttending = false
 let hasGreenAndWhiteBuildings = true
 
 // Answer question 5 below
+var school = "LakeField"
+if school ! "LakeField"{
+    print = "Must be Lakefiled"}
+if school = "LakeField"{
+    print = "Hmm, need more data to be sure"}
 
 
 /*:
